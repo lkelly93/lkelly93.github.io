@@ -21,7 +21,11 @@
 
 ### Personal Projects
 - [Sudoku Solver](https://github.com/lkelly93/Sudoku-Solver)
+
+  Thought this would be an interesting, problem to solve. I used a recursive backtracking algorithm to solve the Sudoku.
 - [Huffman Coding Tree](https://github.com/lkelly93/HuffmanCoding)
+
+  A proof of concept for a Huffman Coding Tree. I was able to get an average of 4.6 bits per character, almost half the standard 8 bits per character of ASCII
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
