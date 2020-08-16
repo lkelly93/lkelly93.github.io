@@ -22,7 +22,7 @@
 ### Personal Projects
 - [Hacks'20 Submission](https://github.com/imranmaj/hack-20-discord-bot)
 
-  This was my team's submission for DubHacks'20 a hackathon hosted at UW.  It is a discord bot that allows you to write code in discord and it will run it for you. I am the one who came up with the idea and formed the team. My role specifically on the team was to setup our bot's running evironment and I also designed and wrote the code that took the written code, grabbed it, ran it, and then returned the result.
+  This was my team's submission for Hacks'20 a hackathon hosted at UW.  It is a discord bot that allows you to write code in discord and it will run it for you. I am the one who came up with the idea and formed the team. My role specifically on the team was to setup our bot's running environment and I also designed and wrote the code that took the written code, grabbed it, ran it, and then returned the result.
   
 - [Sudoku Solver(Java)](https://github.com/lkelly93/Sudoku-Solver)
 
