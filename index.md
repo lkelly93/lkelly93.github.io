@@ -10,7 +10,7 @@
 - [Morse Code(Java)](https://github.com/lkelly93/MorseCode)
 
   Fun prompt from my Computer Science Club, to translate text to Morse Code and back.
-- [Esitmate Pi(Go)](https://github.com/lkelly93/estimate-pi)
+- [Estimate Pi(Go)](https://github.com/lkelly93/estimate-pi)
 
   A super simple yet challenging challenge. Estimate the value of pi using only your random number generator and arithmetic operations. 
 - [Rotate Image(Go)](https://github.com/lkelly93/rotateimage)
@@ -23,6 +23,9 @@
 - [Hacks'20 Submission](https://github.com/imranmaj/hack-20-discord-bot)
 
   This was my team's submission for Hacks'20 a hackathon hosted at UW.  It is a discord bot that allows you to write code in discord and it will run it for you. I am the one who came up with the idea and formed the team. My role specifically on the team was to setup our bot's running environment and I also designed and wrote the code that took the written code, grabbed it, ran it, and then returned the result.
+  
+ - [Scheduler](https://github.com/lkelly93/scheduler)
+  After getting a taste for it in my hackathon I thought that creating a program that runs other people’s code was a fun challenge. So, this is going to be part of my backend that will receive code from some external controller, schedule it to be run, run it, and then return the results. It is still in development but will eventually be part of a bigger cog. I also wrote this while learning Go, which was incredibly fun!
   
 - [Sudoku Solver(Java)](https://github.com/lkelly93/Sudoku-Solver)
 
