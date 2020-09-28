@@ -28,6 +28,10 @@
  
   After getting a taste for it in my hackathon I thought that creating a program that runs other people’s code was a fun challenge. So, this is going to be part of my backend that will receive code from some external controller, schedule it to be run, run it, and then return the results. It is still in development but will eventually be part of a bigger cog. I also wrote this while learning Go, which was incredibly fun!
   
+- [Executable](https://github.com/lkelly93/executable)
+  
+  A large portion of the Scheduler package is the ability to run foriegn code "safely". This package will execute foreign code in a manually built container to prevent the program from having access to the machine it is running on. The Scheduler package will eventually be refactored to use this repo instead of the current executable package that exists in that repo.
+  
 - [Sudoku Solver(Java)](https://github.com/lkelly93/Sudoku-Solver)
 
   Thought this would be an interesting, problem to solve. I used a recursive backtracking algorithm to solve the Sudoku.
